@@ -13,5 +13,5 @@ public class Main {
 		System.out.println(field.get(aTest));
 	}
 
-	//此处可做一个函数用于提取任意对象的变量，用于拼成一个字符串
+	//此处可做一个函数用于提取任意对象的变量，用于拼成一个字符串（通用化功能）
 }
